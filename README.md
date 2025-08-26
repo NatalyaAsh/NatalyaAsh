@@ -2,7 +2,7 @@
 Я - Наталья, Golang-разработчик.
 
 <div id="header" align="center">
-  <img src="golang-developer.svg" width="100"  height="100">
+  <img src="golang-developer.svg" width="200"  height="200">
 </div>
 
 ### :hammer_and_wrench: Навыки:
