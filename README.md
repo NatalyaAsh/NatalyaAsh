@@ -1,5 +1,5 @@
 ## Привет 👋
-Я - Наталья, Golang-разработчик.
+**Я - Наталья, Golang-разработчик.**
 
 <div id="header" align="center">
   <img src="golang-developer.svg" width="200"  height="200">
