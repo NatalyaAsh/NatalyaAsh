@@ -5,6 +5,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<div>
+  <img src="golang-developer.svg" width 200>
+</div>
+
 ### :hammer_and_wrench: Навыки:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="60" height="60"/>&nbsp;
