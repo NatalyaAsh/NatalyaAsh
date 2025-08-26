@@ -2,11 +2,7 @@
 Я - Наталья, Golang-разработчик.
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-<div>
-  <img src="golang-developer.svg" width 200>
+  <img src="golang-developer.svg" width 100>
 </div>
 
 ### :hammer_and_wrench: Навыки:
