@@ -1,11 +1,11 @@
 ## Привет 👋
 Я - Наталья, Golang-разработчик.
 
-### :hammer_and_wrench: Навыки:
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+### :hammer_and_wrench: Навыки:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Golang" alt="Golang" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="БД, SQL" alt="БД, SQL" width="60" height="60"/>&nbsp;
